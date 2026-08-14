@@ -9,4 +9,7 @@ Contain Documentation of programming languages, frameworks, libraries, etc.
 # Blazor
 * https://blog.antosubash.com/posts/state-management-blazor-fluxor - Fluxor
 
+# Design Patterns
+* https://www.c-sharpcorner.com/article/simple-factory-design-pattern/ - Factory Pattern
+
 
